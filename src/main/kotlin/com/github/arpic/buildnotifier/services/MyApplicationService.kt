@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.arpic.buildnotifier.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.arpic.buildnotifier.MyBundle
 
 class MyApplicationService {
 
